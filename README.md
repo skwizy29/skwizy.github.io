@@ -1,4 +1,4 @@
-# skwizy.github.ioСиська, [23.03.2026 00:07]
+# skwizy.github.io, [23.03.2026 00:07]
 <!DOCTYPE html>
 <html lang="ru">
 <head>
