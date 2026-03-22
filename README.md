@@ -294,7 +294,7 @@ background: #11161f;
             border-radius: 60px;
             font-weight: 800;
 
-Сиська, [23.03.2026 00:07]
+, [23.03.2026 00:07]
 font-size: 1rem;
             cursor: pointer;
             transition: 0.2s;
@@ -427,7 +427,7 @@ font-size: 1rem;
             <button class="copy-btn" id="copyCardBtn"><i class="far fa-copy"></i> Копировать</button>
             <div style="font-size:0.
 
-Сиська, [23.03.2026 00:07]
+, [23.03.2026 00:07]
 7rem; margin-top:5px;">СБП / Перевод по номеру карты</div>
         </div>
     </div>
@@ -525,7 +525,7 @@ font-size: 1rem;
         cart.forEach(item => {
             const itemTotal = item.price * item.quantity;
 
-Сиська, [23.03.2026 00:07]
+, [23.03.2026 00:07]
 total += itemTotal;
             html += `
                 <div class="cart-item">
@@ -642,7 +642,7 @@ ${orderData.items}
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
 
-Сиська, [23.03.2026 00:07]
+, [23.03.2026 00:07]
 chat_id: TELEGRAM_CHAT_ID,
                     text: message,
                     parse_mode: "HTML"
@@ -730,7 +730,7 @@ chat_id: TELEGRAM_CHAT_ID,
         
         if (!userName || !userPhone) {
 
-Сиська, [23.03.2026 00:07]
+, [23.03.2026 00:07]
 showToast("❌ Заполните имя и телефон для связи");
             return;
         }
