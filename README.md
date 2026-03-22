@@ -144,7 +144,7 @@
 
         .service-card {
 
-Сиська, [23.03.2026 00:07]
+, [23.03.2026 00:07]
 background: #11161f;
             border-radius: 28px;
             padding: 1.5rem;
